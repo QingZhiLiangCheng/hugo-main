@@ -1,6 +1,7 @@
 ---
 title: UNION-FIND
 share: "true"
+data: 2025-01-15
 ---
 
 ### dynamic connectivity

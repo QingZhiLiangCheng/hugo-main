@@ -1,6 +1,7 @@
 ---
 share: "true"
 title: BAGS, QUERES, AND STACKS
+data: 2025-01-17
 ---
 
 ### stacks and queue introduce

@@ -2,3 +2,12 @@ baseURL = 'https://qingzhiliangcheng.github.io/'
 languageCode = 'zh-CN'
 title = 'QingZhiLiangCheng🍊'
 theme = 'hugo-PaperMod-master'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "darcula"

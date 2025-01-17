@@ -1,0 +1,4 @@
+baseURL = 'https://qingzhiliangcheng.github.io/'
+languageCode = 'zh-CN'
+title = 'QingZhiLiangCheng🍊'
+theme = 'hugo-PaperMod-master'
